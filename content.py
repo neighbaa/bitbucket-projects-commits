@@ -34,5 +34,5 @@ importer = Importer([repo1,repo2,repo3,repo4,repo5,repo6,repo7,repo8,repo9,repo1
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github profiles uses
 # my work email
-importer.set_author(['mintbunch@gmail.com'])
+importer.set_author(['julzhoben@gmail.com', 'mintbunch@gmail.com'])
 importer.import_repository()
